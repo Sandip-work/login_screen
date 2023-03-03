@@ -1,0 +1,4 @@
+#Fri Feb 24 14:25:03 IST 2023
+base.0=/Volumes/data/sandip_work/untitled/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
